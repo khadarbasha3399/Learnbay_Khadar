@@ -1,2 +1,3 @@
 # Learnbay_Khadar
-training assignments
+training assignments updated for practice
+
